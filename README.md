@@ -86,14 +86,8 @@ int main() {
 }
 ```
 
-## License
-This project is open-source. Feel free to use, modify, and distribute it.
-
 
 ## Authors
 - **Anouar ELHARDA**
 - **Aya KADDAH**
-
-## Contact
-For any questions or contributions, feel free to reach out to the authors.
 
